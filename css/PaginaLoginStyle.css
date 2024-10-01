@@ -1,0 +1,86 @@
+.container-fluid{
+    background: url(https://store.akamai.steamstatic.com/public/images/v6/colored_body_top.png?v=2) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.col-xl-10{
+    
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    align-content: center;
+    
+    
+}
+
+.col-xl-12{
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+
+h1{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:large;
+    font-style: oblique;
+    border: 4vh;
+    color:rgb(39, 0, 46);
+    background-image: -webkit-linear-gradient(top right, #0101523e 50%, #892be27a 100%);
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    padding: 5px;
+    margin: 5px;
+    }
+
+
+
+form{
+    border: 5px double blueviolet;
+    border-radius: 5px;
+    margin: 50px;
+    padding: 30px;
+    background-color:rgb(45, 47, 91);
+}
+
+#div-1{
+    
+    margin: 5px;
+    padding: 5px;
+}
+
+label{
+    color: blueviolet;
+    font-size: medium;
+    font-weight: bold;
+}
+
+#Email{
+    border: 5px double blueviolet;
+    
+}
+
+#Password{
+    border: 5px double blueviolet;
+}
+
+footer{
+    background-color:rgb(45, 47, 91);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: smaller;
+    padding: 2vh;
+    color: blueviolet;
+}
