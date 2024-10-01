@@ -1,0 +1,40 @@
+.navbar{
+    background-color: #171a21;
+}
+
+.container-fluid{
+    background-image: url("https://store.akamai.steamstatic.com/public/images/v6/colored_body_top.png?v=2");
+    background-size: cover;
+}
+
+a[class^="nav-link"]{
+    color: #F5F5F6;
+}
+
+.gutter_header {
+    display: block;
+    color: #536f86;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: "Motiva Sans", Sans-serif;
+    font-weight: normal;
+    font-weight: bolder;
+}
+
+a{
+    text-decoration: none;
+}
+
+a.gutter_item {
+    display: block;
+    width: fit-content;
+    color: #7A8B9D;
+    font-size: 16px;
+    font-family: "Motiva Sans", Sans-serif;
+    font-weight: normal;
+    font-weight: 550;
+}
+
+div{
+    display: block;
+}
